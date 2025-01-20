@@ -232,7 +232,7 @@ Note - Remember, as soon as your CloudFront distribution is Deployed, it attache
 <img src= "imgs/result3.PNG" alt="" width="90%" style="display:inline-block;"/>
 </p>
 
-<!--[<img src= "https://img.youtube.com/vi/vFNr7DC0EDw/0.jpg" />](https://youtu.be/vFNr7DC0EDw)-->
+
 
 
 </details>
